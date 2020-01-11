@@ -33,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../variables" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,6 +87,10 @@
       <updated>1578506726730</updated>
       <workItem from="1578506727948" duration="1238000" />
       <workItem from="1578751375300" duration="2684000" />
+      <workItem from="1578754238023" duration="454000" />
+      <workItem from="1578754885895" duration="65000" />
+      <workItem from="1578755105496" duration="13000" />
+      <workItem from="1578755193426" duration="20000" />
     </task>
     <servers />
   </component>
@@ -94,22 +98,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1578754252903">
+    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578755204831">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578754252903" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1578754252903">
+    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578755204831" />
+    <state x="1060" y="456" key="FileChooserDialogImpl" timestamp="1578755212077">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578754252903" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1578754252903">
+    <state x="1060" y="456" key="FileChooserDialogImpl/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578755212077" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1578755117948">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578754252903" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1578754252903">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578755117948" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1578755117948">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578754252903" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578755117948" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1578755117948">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578755117948" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1578755117948">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578755117948" />
     <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1578754062197">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

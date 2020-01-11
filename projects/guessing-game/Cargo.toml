@@ -1,0 +1,14 @@
+[package]
+name = "rust-guessinggame"
+version = "0.1.0"
+authors = ["CodingBeagle <kasper.rie@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+# Everything that follows a header is part of a section that continues until another header (section)
+# Is started.
+# The "dependencies" section is where you tell cargo which external crates your project depends on and which
+# Version of those crates you require.
+[dependencies]
+rand = "0.5.5"

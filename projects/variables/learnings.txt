@@ -1,0 +1,14 @@
+** Scalar Types **
+
+Rust has four primary scalar types (something which represents a single value):
+
+- Integers
+- Floating-Point Numbers
+- Booleans
+- Characters
+
+** Compound Types **
+
+Rust has two primitive compound types:
+- Tuples
+- Arrays

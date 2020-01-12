@@ -1,0 +1,36 @@
+Rust does not have garbage collection. It also does not completely allow the programmer to allocate and free memory,
+at least not without supervision.
+
+Rust uses an approach where memory is managed through a system of ownership, in which a set of rules is checked
+at compile time to guarantee memory safety. The smart thing about compile time checks is that this is not a system
+that will slow down your program during run-time.
+
+** Stack and Heap **
+
+The Stack and the Heap are two memory sections available to your program at runtime.
+
+The Stack stores values in a "Last In, First Out" (LIFO) structure. Meaning values are stored in the order they
+become available, and are removed in the opposite order.
+
+All data on the stack must have a known, fixed size. Data with unknown size at compile time, or size that might
+change during runtime must be stored on the heap.
+
+Storing values on the heap means that you request a certain amount of space, after which the operating system will
+attempt to find an empty spot of that size, then mark it as being in use, and then return a pointer to the memory
+address found.
+
+That process is called "allocating on the heap".
+
+** Performance **
+
+Pushing to the stack is faster than allocating it on the heap because less steps are required. The OS doesn't have to
+search for space and mark it.
+
+Accessing data on the heap is also slower than accessing it on the stack, because you have to follow a pointer to
+get there.
+
+**** Ownership Rules ****
+
+1 - Each value ion Rust has a variable that's called its "owner".
+2 - There can only be one owner at a time.
+3 - When the owner goes out of scope, the value will be dropped.

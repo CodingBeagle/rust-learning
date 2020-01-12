@@ -1,0 +1,24 @@
+** Expressions VS Statements **
+
+Expressions and Statements are two important concepts in Rust.
+
+Statements = Instructions that perform some action and do NOT return a value.
+Expressions = Instructions that evaluate to a resulting value.
+
+Examples:
+
+The line:
+let y = 6; - Is a STATEMENT.
+
+Function definitions are also statements. So, this entire thing would be a statement:
+fn main() {
+    let y = 6;
+}
+
+The line:
+5 + 6 - Is an Expression. It evaluates to a resulting value that, for example, can be assigned to a value.
+
+Expressions can be part of statements.
+
+Expressions do NOT include ending semicolons. Adding a semicolon to the end of an expression turns it into a
+statement.

@@ -1,3 +1,9 @@
+Ownership in Rust always follows the same pattern:
+
+- Assigning a value to another variable moves it.
+- When a variable that includes data on the heap goes out of scope, the value will be cleaned up by a call to "Drop".
+-- UNLESS that data has been moved to be owned by another variable.
+
 Rust does not have garbage collection. It also does not completely allow the programmer to allocate and free memory,
 at least not without supervision.
 

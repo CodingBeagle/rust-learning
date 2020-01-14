@@ -58,6 +58,7 @@
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -79,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578857718106</updated>
       <workItem from="1578857719363" duration="1511000" />
+      <workItem from="1579038608949" duration="69000" />
     </task>
     <servers />
   </component>
@@ -90,5 +92,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578858597339" />
+    <state x="976" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1579038620633">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="525" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1579038620633" />
   </component>
 </project>

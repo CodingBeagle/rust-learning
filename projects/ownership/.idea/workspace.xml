@@ -44,7 +44,7 @@
   <component name="RunManager">
     <configuration name="Run ownership" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="channel" value="DEFAULT" />
-      <option name="command" value="run --package loops --bin loops" />
+      <option name="command" value="run --package ownership --bin ownership" />
       <option name="allFeatures" value="false" />
       <option name="nocapture" value="false" />
       <option name="emulateTerminal" value="false" />
@@ -58,6 +58,7 @@
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -79,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578858630699</updated>
       <workItem from="1578858631896" duration="2350000" />
+      <workItem from="1579038678972" duration="1767000" />
     </task>
     <servers />
   </component>
@@ -86,25 +88,41 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578858644290">
+    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579038895616">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578858644290" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1578861083258">
+    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1579038895616" />
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1579040446878">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578861083258" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1578861083258">
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1579040446878" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1579040446878">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578861083258" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1578861083257">
+    <state width="2517" height="492" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1579040446878" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1579040446878">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578861083257" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1578861083258">
+    <state width="2517" height="492" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1579040446878" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1579040446878">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1578861083258" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1579040446878" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1579040446878">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1579040446878" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1579040446878">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1579040446878" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1579040446878">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1579040446878" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1579040446878">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.203.1920.1080@0.0.2560.1400" timestamp="1579040446878" />
   </component>
 </project>
